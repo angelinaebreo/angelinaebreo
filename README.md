@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![New York](https://cdn.getyourguide.com/img/tour/5ac513c518061.jpeg/146.jpg)
+![New York](https://code.org/images/fill-480x360/tutorials/hoc2019/dance-2019.jpg)
 **angelinaebreo/angelinaebreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
