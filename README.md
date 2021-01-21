@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+![New York](https://cdn.getyourguide.com/img/tour/5ac513c518061.jpeg/146.jpg)
 **angelinaebreo/angelinaebreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
