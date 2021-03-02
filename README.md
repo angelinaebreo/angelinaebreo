@@ -10,5 +10,7 @@ I am looking to join a forward-thinking company where I can utilize my strong pr
 
 When I am not learning to code, I enjoy solving logical puzzles, reading, and experiencing the diverse languages, cultures, and cuisines of the world.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelinaebreo)](https://github.com/angelinaebreo/github-readme-stats)
+
 
 
